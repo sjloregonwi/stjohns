@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alpha Church</title>
+    <link>http://stjohns.github.io/tags/</link>
+    <description>Recent content in Tags on Alpha Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
+    
+	<atom:link href="http://stjohns.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://stjohns.github.io/tags/</link>
+      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      
+      <guid>http://stjohns.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bible</title>
+      <link>http://stjohns.github.io/tags/bible/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      
+      <guid>http://stjohns.github.io/tags/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historical</title>
+      <link>http://stjohns.github.io/tags/historical/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      
+      <guid>http://stjohns.github.io/tags/historical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripture</title>
+      <link>http://stjohns.github.io/tags/scripture/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      
+      <guid>http://stjohns.github.io/tags/scripture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redemption</title>
+      <link>http://stjohns.github.io/tags/redemption/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      
+      <guid>http://stjohns.github.io/tags/redemption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
