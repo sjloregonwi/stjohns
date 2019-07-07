@@ -1,6 +1,6 @@
 [submodule "themes/alpha-church"]
 	path = themes/alpha-church
-	url = https://github.com/funkydan2/alpha-church.git
+	url = https://github.com/sjloregonwi/alpha-church.git
 [submodule "public"]
 	path = public
 	url = https://github.com/sjloregonwi/stjohns.github.io
