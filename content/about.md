@@ -1,12 +1,12 @@
 ---
-title: "About"
-subtitle: "About St. John's"
-date: 2018-04-30T10:05:49+10:00
-images: ["/img/freely-20445.jpg"]
-draft: false
----
+title: About
+subtitle: About St. John's
+date: 2018-04-30T00:05:49.000+00:00
+images:
+- "/img/freely-20445.jpg"
 
-This is an example about page.
+---
+This is an example page.
 
 With a bible quote for good measure!
 
