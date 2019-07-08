@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Alpha Church</title>
-    <link>http://sjloregonwi.github.io/series/</link>
+    <link>https://sjloregonwi.github.io/series/</link>
     <description>Recent content in Series on Alpha Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate>
     
-	<atom:link href="http://sjloregonwi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sjloregonwi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://sjloregonwi.github.io/series/test/</link>
+      <link>https://sjloregonwi.github.io/series/test/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>http://sjloregonwi.github.io/series/test/</guid>
+      <guid>https://sjloregonwi.github.io/series/test/</guid>
       <description></description>
     </item>
     
