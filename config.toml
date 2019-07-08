@@ -1,4 +1,4 @@
-baseURL = "http://sjloregonwi.github.io/"
+baseURL = "https://sjloregonwi.github.io/"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
